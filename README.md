@@ -437,11 +437,20 @@ Chirag Arya
 GitHub: https://github.com/AryaChirag
 
 ## Repository Structure
+Covid-19-Analysis/
+
 ├── Data_files/
+
 │ ├── CovidDeaths.xlsx
+
 │ └── CovidVaccinations.xlsx
+
 ├── Media/
+
 │ └── Dashboard.png
+
 ├── SQL/
+
 │ └── Covid_Analysis.sql
+
 └── README.md
