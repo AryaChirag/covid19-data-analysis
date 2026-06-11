@@ -25,13 +25,17 @@ This project analyses global COVID-19 data to uncover trends in:
 -----
 
 ## Tableau Dashboard
-The dashboard visualises COVID-19 data collected between **01 January 2020 to 23 May 2023**.
+The dashboard visualizing COVID-19 data collected between **01 January 2020 to 23 May 2023** can be found [here](https://public.tableau.com/app/profile/chirag.arya4385/viz/Coviddata_17809148631170/Dashboard1?publish=yes).
 
 ### Dashboard Preview
-![Dashboard](Media/Dashboard.png)
 
-🔗 **Live Dashboard:**
-👉 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/chirag.arya4385/viz/Coviddata_17809148631170/Dashboard1?publish=yes) 
+<p align="center">
+  <a href="https://public.tableau.com/app/profile/chirag.arya4385/viz/Coviddata_17809148631170/Dashboard1?publish=yes">
+    <img src="/Media/Dashboard.png" width="1000"/>
+  </a>
+</p>
+
+Click the dashboard to explore interactive insights
 
 -----
 
